@@ -1,5 +1,7 @@
-html {
+html, body {
   scroll-behavior: smooth;
+  height: 100%;
+  weight: 100%;
 }
 .contact, .service, .about, .testimonials{
 	position: relative;
